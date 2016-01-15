@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle atom-lc2200-assembly'
+      'command': 'atom-lc2200-assembly:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'atom-lc2200-assembly'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'atom-lc2200-assembly:toggle'
+        }
+      ]
+    ]
+  }
+]

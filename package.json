@@ -1,0 +1,18 @@
+{
+  "name": "atom-lc2200-assembly",
+  "main": "./lib/atom-lc2200-assembly",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-lc2200-assembly:toggle"
+  },
+  "repository": "https://github.com/atom/atom-lc2200-assembly",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
