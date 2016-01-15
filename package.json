@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-lc2200-assembly:toggle"
   },
-  "repository": "https://github.com/atom/atom-lc2200-assembly",
+  "repository": "https://github.com/mosdragon/atom_lc2200_assembly",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
